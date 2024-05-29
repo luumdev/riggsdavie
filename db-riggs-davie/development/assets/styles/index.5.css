@@ -1,0 +1,10 @@
+[data-component-id=updates-resources] .updates-resources__pagination .li .page {
+  padding-inline: 1.25rem;
+  padding-block: 1rem;
+}
+[data-component-id=updates-resources] .updates-resources__pagination .li.active {
+  border: 1px solid var(--color-accent-1);
+}
+[data-component-id=updates-resources] .updates-resources__pagination .li:hover {
+  background-color: var(--color-accent-1);
+}
